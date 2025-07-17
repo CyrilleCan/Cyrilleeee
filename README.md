@@ -1,11 +1,14 @@
-## Hi there 👋
+## Ello!!
+🌝 My name is Cyrille Candelaria 
+
+🔭 Ever since I was a young kid, I’ve always wanted to become a doctor. It is after watching Grey’s Anatomy that I’ve decided that I want to be a cardiologist! However, I am also interested in technology. I want to combine my passion in both to help create a better world. Tech and healthcare go hand-in-hand, and it is something that will only get bigger from now. I hope to be a part of the journey!
 
 <!--
 **Cyrilleeee/Cyrilleeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 Ever since I was a young kid, I’ve always wanted to become a doctor. It is after watching Grey’s Anatomy that I’ve decided that I want to be a cardiologist! However, I am also interested in technology. I want to combine my passion in both to help create a better world. Tech and healthcare go hand-in-hand, and it is something that will only get bigger from now. I hope to be a part of the journey! I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
