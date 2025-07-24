@@ -24,4 +24,4 @@
 <img width="418" height="231" alt="Screenshot 2025-07-17 at 1 38 14 PM" src="https://github.com/user-attachments/assets/f982202b-83ce-4fe5-8943-45b9701c268c" />
 
 ### Social Media 
-- | Instahram 📸 | <a href="https://www.instagram.com/kyrilllee_/ " download>Instagram</a> |
+- | Instagram 📸 | <a href="https://www.instagram.com/kyrilllee_/ " download>Instagram</a> |
