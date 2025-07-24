@@ -13,7 +13,7 @@
 📚 I am currently in a CTE school training to be a pharmacy technician. Right now, I am working at a pharmacy. I am also a coding fellow at the Knwoledge House, learning web development through branding, wireframing, HTML, CSS, Javascript. 
 
 - | Coding fellow @ The Knowledge House | <a href="https://www.theknowledgehouse.org/karim_kharbouch_coding_fellowship/">Coding Fellowship</a> |
-- | Volunteer @ Weiil Cornell Medicine Emergency Medicine | <a href="https://emed.weill.cornell.edu/education/continuing-medical-education/base-camp">Base Camp</a> |
+- | Volunteer @ Weill Cornell Medicine Emergency Medicine | <a href="https://emed.weill.cornell.edu/education/continuing-medical-education/base-camp">Base Camp</a> |
 - | Peer leader at my school | <a href="https://https://www.supportiveschools.org/peer-group-connection-high-school" >Peer Group Connection </a> |
 
 ### Tech Projects
